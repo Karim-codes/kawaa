@@ -1,0 +1,10 @@
+{
+  "name": "kawaa",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix kaawa-site run dev",
+    "build": "npm --prefix kaawa-site run build",
+    "preview": "npm --prefix kaawa-site run preview",
+    "check": "npm --prefix kaawa-site run check"
+  }
+}
